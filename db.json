@@ -1,0 +1,75 @@
+{
+    "banks": {
+        "BRI": 998898000,
+        "seabank": 500000
+    },
+    "transactions": [
+        {
+            "tipe": "pemasukan",
+            "jumlah": 300000,
+            "keterangan": "mengerjakan pr",
+            "tanggal": "2025-05-10",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pengeluaran",
+            "jumlah": 300000,
+            "keterangan": "jajan",
+            "tanggal": "2025-05-10",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pengeluaran",
+            "jumlah": 300000,
+            "keterangan": "makan",
+            "tanggal": "2025-05-11",
+            "waktu": "00:32:25",
+            "hari": "Sunday",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pemasukan",
+            "jumlah": 100000,
+            "keterangan": "mama",
+            "tanggal": "2025-05-11",
+            "waktu": "00:32:47",
+            "hari": "Sunday",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pemasukan",
+            "jumlah": 500000,
+            "keterangan": "mama",
+            "tanggal": "2025-05-11 00:37:48",
+            "bank": "seabank"
+        },
+        {
+            "tipe": "pemasukan",
+            "jumlah": 1000000000,
+            "keterangan": "kerja",
+            "tanggal": "2025-05-11 00:38:04",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pemasukan",
+            "jumlah": 2000,
+            "keterangan": "gaji tidur",
+            "tanggal": "2025-05-11 00:40:52",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pengeluaran",
+            "jumlah": 4000,
+            "keterangan": "tahu",
+            "tanggal": "2025-05-11 00:41:48",
+            "bank": "BRI"
+        },
+        {
+            "tipe": "pengeluaran",
+            "jumlah": 900000,
+            "keterangan": "makan",
+            "tanggal": "2025-05-11 01:11:50",
+            "bank": "BRI"
+        }
+    ]
+}
